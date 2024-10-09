@@ -1,6 +1,7 @@
 # EaglerCraft Client Selector
 
 https://valux-game.github.io/Minecraft-Clients/
+
 A website that hosts and provides many vanilla and modified EaglerCraft Clients with a clean UI, and a 1.8 server list
 
 # Update (6/15/24)
