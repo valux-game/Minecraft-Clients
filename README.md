@@ -4,7 +4,7 @@ https://valux-game.github.io/Minecraft-Clients/
 
 A website that hosts and provides many vanilla and modified EaglerCraft Clients with a clean UI, and a 1.8 server list
 
-# Update (6/15/24)
+# Update (10/10/24)
 Yeah, I don't really care about this project anymore, so I will not be updating this ever. You are still welcome to fork and edit this launcher, and I would appreciate crediting me, thanks
 
 # What's Inside?
